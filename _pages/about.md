@@ -6,7 +6,7 @@ subtitle: Incoming MSc Mathematical Physics student at the University of Oxford
 
 profile:
   align: right
-  image: opera.jpeg
+  image: IMG_3125.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>Lathbury Rd,</p>
