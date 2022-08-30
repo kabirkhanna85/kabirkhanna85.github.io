@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Incoming MSc Mathematical Physics student at the University of Oxford
 
 profile:
   align: right
   image: opera.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>11A, Lathbury Rd.</p>
-    <p>Oxford, United Kingdom</p>
-    <p>500036</p>
+    <p>Lathbury Rd,</p>
+    <p>Oxford</p>
+    <p>OX2 7AT, UK</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
