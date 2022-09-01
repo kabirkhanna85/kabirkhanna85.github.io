@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Incoming MSc Mathematical Physics student at the University of Oxford
 
