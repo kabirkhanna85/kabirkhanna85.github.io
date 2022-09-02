@@ -14,26 +14,30 @@
     - title: MSc Mathematical and Theoretical Physics
       institution: University of Oxford, UK
       year: 2022-Present
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: B.Tech in Engineering Design + M.Tech in Quantum Science and Technology
+      institution: Indian Institute of Technology Madras (IITM)
+      year: 2017-22
+      Relevant Coursework: Grading scale - 10
+        - General Relativity and Cosmology (10/10)
+        - Quantum Field Theory
+        - Quantum Computing and Information (10/10)
+        - Quantum Communications (10/10)
+        - Physical Applications of Statistical Processes (10/10)
+        - Mathematical Physics 2 (9/10)
 
-- title: Experience
+- title: Research
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Master's Thesis
+      institution: Indian Institute of Technology Madras
+      year: July 2021 - May 2022
       description:
         - Description 1.
         - Description 2.
