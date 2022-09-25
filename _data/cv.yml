@@ -38,7 +38,8 @@
     - title: Master's Thesis
       institution: Indian Institute of Technology Madras
       description:
-        - Aspects of Quantum Information in Curved Spaceitmes
+        - * Aspects of Quantum Information in Curved Spacetimes 
+        *
           # contents:
           # - Sub-description 1.
           # - Sub-description 2.
