@@ -37,6 +37,7 @@
   contents:
     - title: Master's Thesis
       institution: Indian Institute of Technology Madras
+      year: 2021-22
       description:
         - Aspects of Quantum Information in Curved Spacetimes
 
@@ -46,9 +47,10 @@
       description:
         - Khanna, K., & Das, S. (2022). GUP Corrections to the Jaynes-Cummings Model. arXiv. https://doi.org/10.48550/arXiv.2209.10152
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+
+    # - title: Professor of Theoretical Physics
+    #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
+    #   year: 1911 - 1917
 
 # - title: Open Source Projects
 #   type: time_table
