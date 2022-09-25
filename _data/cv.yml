@@ -25,32 +25,28 @@
       institution: Indian Institute of Technology Madras (IITM)
       year: 2017-22
       Relevant Coursework: Grading scale - 10
-        - General Relativity and Cosmology (10/10)
-        - Quantum Field Theory
-        - Quantum Computing and Information (10/10)
-        - Quantum Communications (10/10)
-        - Physical Applications of Statistical Processes (10/10)
-        - Mathematical Physics 2 (9/10)
+          - General Relativity and Cosmology (10/10)
+          - Quantum Field Theory
+          - Quantum Computing and Information (10/10)
+          - Quantum Communications (10/10)
+          - Physical Applications of Statistical Processes (10/10)
+         - Mathematical Physics 2 (9/10)
 
 - title: Research
   type: time_table
   contents:
     - title: Master's Thesis
       institution: Indian Institute of Technology Madras
-      year: July 2021 - May 2022
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Aspects of Quantum Information in Curved Spaceitmes
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Research Associate
+      institution: University of Lethbridge
+      year: 2021-22
       description:
-        - Description 1.
-        - Description 2.
+        - Topic: GUP corrections in the Jaynes-Cummings Model.
+        - Resulted in a publication.
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
@@ -65,23 +61,35 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - OCSI Scholarship 
+    - year: 2021
       items:
-        - Max Planck Medal
+        - Selected for the DAAD WISE research scholarship. 
+    - year: 2019
+      items:
+        - Selected to participate in a tuition-funded semester exchange at DTU, Denmark. 
+        - Awarded partial funding to attend the Wolfram Summer School at Waltham, Massachusetts. 
+    - year: 2018
+      items:
+        - Best volunteer at NSS IITM for teaching mathematical concepts to underpriviliged students.
+    - year: 2017
+      items:
+        - Stood in the top 0.3% of JEE Advanced 2017 out of 1.2 million applicants. 
+    - year: 2015
+      items:
+        - Best outgoing student at my school, DPS Secunderabad.  
 
 - title: Academic Interests
   type: nested_list
