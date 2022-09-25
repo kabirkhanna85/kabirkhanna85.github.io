@@ -24,28 +24,29 @@
     - title: B.Tech in Engineering Design + M.Tech in Quantum Science and Technology
       institution: Indian Institute of Technology Madras (IITM)
       year: 2017-22
-      Relevant Coursework: Grading scale - 10
-          - General Relativity and Cosmology (10/10)
-          - Quantum Field Theory
-          - Quantum Computing and Information (10/10)
-          - Quantum Communications (10/10)
-          - Physical Applications of Statistical Processes (10/10)
-         - Mathematical Physics 2 (9/10)
+      # - Relevant Coursework: Grading scale - 10
+      #   - General Relativity and Cosmology (10/10)
+      #   - Quantum Field Theory
+      #   - Quantum Computing and Information (10/10)
+      #   - Quantum Communications (10/10)
+      #   - Physical Applications of Statistical Processes (10/10)
+      #   - Mathematical Physics 2 (9/10)
 
 - title: Research
   type: time_table
   contents:
     - title: Master's Thesis
       institution: Indian Institute of Technology Madras
-        - title: Aspects of Quantum Information in Curved Spaceitmes
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      description:
+        - Aspects of Quantum Information in Curved Spaceitmes
+          # contents:
+          # - Sub-description 1.
+          # - Sub-description 2.
     - title: Research Associate
       institution: University of Lethbridge
       year: 2021-22
       description:
-        - Topic -  GUP corrections in the Jaynes-Cummings Model.
+        - GUP corrections in the Jaynes-Cummings Model.
         - Resulted in a publication.
 
     - title: Director
@@ -73,23 +74,23 @@
   contents:
     - year: 2022
       items:
-        - OCSI Scholarship 
+        - OCSI Scholarship
     - year: 2021
       items:
-        - Selected for the DAAD WISE research scholarship. 
+        - Selected for the DAAD WISE research scholarship.
     - year: 2019
       items:
-        - Selected to participate in a tuition-funded semester exchange at DTU, Denmark. 
-        - Awarded partial funding to attend the Wolfram Summer School at Waltham, Massachusetts. 
+        - Selected to participate in a tuition-funded semester exchange at DTU, Denmark.
+        - Awarded partial funding to attend the Wolfram Summer School at Waltham, Massachusetts.
     - year: 2018
       items:
         - Best volunteer at NSS IITM for teaching mathematical concepts to underpriviliged students.
     - year: 2017
       items:
-        - Stood in the top 0.3% of JEE Advanced 2017 out of 1.2 million applicants. 
+        - Stood in the top 0.3% of JEE Advanced 2017 out of 1.2 million applicants.
     - year: 2015
       items:
-        - Best outgoing student at my school, DPS Secunderabad.  
+        - Best outgoing student at my school, DPS Secunderabad.
 
 - title: Academic Interests
   type: nested_list
