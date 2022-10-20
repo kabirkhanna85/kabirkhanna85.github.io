@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming MSc Mathematical Physics student at the University of Oxford
+subtitle: MSc Theoretical Physics student at the University of Oxford
 
 profile:
   align: right
@@ -21,11 +21,11 @@ Hey all 👋🏾 ! I’m Kabir, a 22-year-old aspiring full-time theoretical phy
 I graduated this year with a bachelor’s in [engineering design](https://ed.iitm.ac.in/) and an engineering master’s in [quantum technologies](https://quantum.iitm.ac.in/programmes/) from the [ Indian Institute of Technology Madras](https://www.iitm.ac.in/) (IITM).
 
 Through my projects at IITM, I got interested in semi-classical methods at the intersection of field theory, general relativity, and quantum information.
-My master’s thesis was on “aspects of quantum information in curved spacetimes” and explored the interplay between gravity and quantum information using semi-classical methods.
+My master’s thesis was on “aspects of quantum information in curved spacetimes” and explored the interplay between gravity and quantum information using just these kinds of semi-classical methods.
 
 Specifically, I studied the effect of gravity on the decoherence of quantum systems in the former half and provided a pedagogical introduction to the black hole information problem in the latter half of my thesis.
 
-I am now headed to the [University of Oxford](https://www.ox.ac.uk/) to pursue an [MSc in Mathematical and Theoretical Physics](https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-and-theoretical-physics) , a short yet intense course in theoretical physics. You can find the list of courses offered [here](https://drive.google.com/file/d/1BhJ5_GwTvyxnIryoCewyi_9W5hqgMzjX/view?usp=sharing).
+I am currently at the [University of Oxford](https://www.ox.ac.uk/) pursuing an [MSc in Mathematical and Theoretical Physics](https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-and-theoretical-physics), a short yet intense course in theoretical physics. You can find the list of courses offered [here](https://drive.google.com/file/d/1BhJ5_GwTvyxnIryoCewyi_9W5hqgMzjX/view?usp=sharing).
 
 In my free time, I learn languages, geek out about coffee, and if the circumstances call for it, go all out with my guitar.
 
