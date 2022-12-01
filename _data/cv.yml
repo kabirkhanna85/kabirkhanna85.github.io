@@ -35,6 +35,15 @@
 - title: Research
   type: time_table
   contents:
+    - title: Dissertation
+      institution: University of Oxfors
+      year: 2022-23
+      description:
+        - Generation of quantum states states via measurement
+
+- title: Research
+  type: time_table
+  contents:
     - title: Master's Thesis
       institution: Indian Institute of Technology Madras
       year: 2021-22
