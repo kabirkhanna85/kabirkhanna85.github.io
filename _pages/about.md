@@ -17,17 +17,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey all 👋🏾 ! I’m Kabir, a 22-year-old aspiring full-time theoretical physicist. As far as theoretical physicists go, I have a non-traditional academic background.
-I graduated this year with a bachelor’s in [engineering design](https://ed.iitm.ac.in/) and an engineering master’s in [quantum technologies](https://quantum.iitm.ac.in/programmes/) from the [ Indian Institute of Technology Madras](https://www.iitm.ac.in/) (IITM).
+Hey all 👋🏾 ! I’m Kabir, an aspiring full-time theoretical physicist. As far as theoretical physicists go, I have a non-traditional academic background.
+I graduated with a bachelor’s in [Engineering Design](https://ed.iitm.ac.in/) and an engineering master’s in [Quantum Science & Technology](https://quantum.iitm.ac.in/programmes/) from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) (IITM) in July 2022.
 
-Through my projects at IITM, I got interested in semi-classical methods at the intersection of field theory, general relativity, and quantum information.
-My master’s thesis was on “aspects of quantum information in curved spacetimes” and explored the interplay between gravity and quantum information using just these kinds of semi-classical methods.
-
-Specifically, I studied the effect of gravity on the decoherence of quantum systems in the former half and provided a pedagogical introduction to the black hole information problem in the latter half of my thesis.
+In my years at IITM, I was interested in semi-classical methods at the intersection of field theory, general relativity, and quantum information.
+My master’s thesis was on <em>Aspects of Quantum Information in Curved Spacetimes</em> and explored the interplay between gravity and quantum information using just these kinds of semi-classical methods.
 
 I am currently at the [University of Oxford](https://www.ox.ac.uk/) pursuing an [MSc in Mathematical and Theoretical Physics](https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-and-theoretical-physics), a short yet intense course in theoretical physics. You can find the list of courses offered [here](https://drive.google.com/file/d/1BhJ5_GwTvyxnIryoCewyi_9W5hqgMzjX/view?usp=sharing).
 
-In my free time, I learn languages, geek out about coffee, and if the circumstances call for it, go all out with my guitar.
+Recently my interests have shifted towards studying quantum information theoretic aspects in condensed matter physics. This is the broad area of my dissertation at Oxford.
+
+Besides physics, I like to learn languages, geek out about coffee, and if the circumstances call for it, go all out with my guitar.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
