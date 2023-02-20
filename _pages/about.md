@@ -6,7 +6,7 @@ subtitle: MSc Theoretical Physics student at the University of Oxford
 
 profile:
   align: right
-  image: IMG_2556.JPG
+  image: IMG_2556.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>OX2 7AT, Oxford,</p>
