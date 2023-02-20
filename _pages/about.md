@@ -6,7 +6,7 @@ subtitle: MSc Theoretical Physics student at the University of Oxford
 
 profile:
   align: right
-  image: IMG_3125.JPG
+  image: IMG_2556.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>OX2 7AT, Oxford,</p>
@@ -21,7 +21,7 @@ Hey all 👋🏾 ! I’m Kabir, an aspiring full-time theoretical physicist. As 
 I graduated with a bachelor’s in [Engineering Design](https://ed.iitm.ac.in/) and an engineering master’s in [Quantum Science & Technology](https://quantum.iitm.ac.in/programmes/) from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) (IITM) in July 2022.
 
 In my years at IITM, I was interested in semi-classical methods at the intersection of field theory, general relativity, and quantum information.
-My master’s thesis was on <em>Aspects of Quantum Information in Curved Spacetimes</em> and explored the interplay between gravity and quantum information using just these kinds of semi-classical methods.
+My master’s thesis was on <em>Aspects of Quantum Information in Curved Spacetimes</em> and explored the interplay between gravity and quantum information using just these kinds of semi-classical methods. A paper based on some of this work can be found below.
 
 I am currently at the [University of Oxford](https://www.ox.ac.uk/) pursuing an [MSc in Mathematical and Theoretical Physics](https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-and-theoretical-physics), a short yet intense course in theoretical physics. You can find the list of courses offered [here](https://drive.google.com/file/d/1BhJ5_GwTvyxnIryoCewyi_9W5hqgMzjX/view?usp=sharing).
 

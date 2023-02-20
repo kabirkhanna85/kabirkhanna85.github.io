@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 30 Aug 2022
+date: 30 Aug, 2022
 inline: true
 ---
 
