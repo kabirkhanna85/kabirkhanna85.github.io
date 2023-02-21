@@ -9,7 +9,7 @@ profile:
   image: IMG_3102.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Me with Penrose after a talk he gave</p>
+    <p>With Sir Roger Penrose after his talk</p>
     <p>Wadham College, Oxford</p>
 
 news: true # includes a list of news items
