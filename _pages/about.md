@@ -6,11 +6,11 @@ subtitle: MSc Theoretical Physics student at the University of Oxford
 
 profile:
   align: right
-  image: IMG_2556.jpeg
+  image: IMG_3102.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>OX2 7AT, Oxford,</p>
-    <p>United Kingdom</p>
+    <p>Me with Penrose after a talk he gave</p>
+    <p>Wadham College, Oxford</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
