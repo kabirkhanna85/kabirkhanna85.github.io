@@ -11,9 +11,13 @@
 - title: Education
   type: time_table
   contents:
+  - title: PhD Physics
+      institution: University of Massachusetts, Amherst 
+      year: 2023-2028 (Expected)
+
     - title: MSc Mathematical and Theoretical Physics
       institution: University of Oxford, UK
-      year: 2022-Present
+      year: 2022-2023
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -39,13 +43,13 @@
       institution: University of Oxford
       year: 2022-23
       description:
-        - Generation of quantum states states via measurement
+        - Generation of quantum states states via measurement (in preparation) 
 
     - title: Master's Thesis
       institution: Indian Institute of Technology Madras
       year: 2021-22
       description:
-        - Aspects of Quantum Information in Curved Spacetimes
+        - Aspects of Quantum Information in Curved Spacetimes. arXiv. https://arxiv.org/abs/2302.09038
 
     - title: Research Associate
       institution: University of Lethbridge
@@ -68,6 +72,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2022
+      items:
+        - Graduate Fellowship by UMass worth $5000.
     - year: 2022
       items:
         - OCSI Scholarship
