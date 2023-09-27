@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student at UMass Amherst
+subtitle: PhD Student at UMass Amherst || MSc Theoretical Physics, University of Oxford || B.Tech/M.Tech, IIT Madras
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey all 👋🏾 ! I’m Kabir, a first year PhD student at UMass Amherst. I work with Prof. Romain Vasseur on topics related to quantum dynamics using tools in quantum computing and quantum information theory. However, I am interested in all things quantum condensed matter theory.
+Hey all 👋🏾 ! I’m Kabir, a first year PhD student at UMass Amherst. I work with [Prof. Romain Vasseur](https://blogs.umass.edu/rvasseur/) on topics related to quantum dynamics using tools in quantum computing and quantum information theory. However, I am interested in all things quantum condensed matter theory.
 
 As far as theoretical physicists go, I have a non-traditional academic background. I graduated with a bachelor’s in [Engineering Design](https://ed.iitm.ac.in/) and a master’s in [Quantum Science & Technology](https://quantum.iitm.ac.in/programmes/) from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) (IITM) in July 2022.
 
