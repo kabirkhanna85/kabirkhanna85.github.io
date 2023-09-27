@@ -11,8 +11,8 @@
 - title: Education
   type: time_table
   contents:
-  - title: PhD Physics
-      institution: University of Massachusetts, Amherst 
+    - title: PhD Physics
+      institution: University of Massachusetts, Amherst
       year: 2023-2028 (Expected)
 
     - title: MSc Mathematical and Theoretical Physics
@@ -43,7 +43,7 @@
       institution: University of Oxford
       year: 2022-23
       description:
-        - Generation of quantum states states via measurement (in preparation) 
+        - Generation of quantum states states via measurement (in preparation)
 
     - title: Master's Thesis
       institution: Indian Institute of Technology Madras
