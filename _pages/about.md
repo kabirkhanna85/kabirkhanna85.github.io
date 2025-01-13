@@ -6,18 +6,18 @@ subtitle: PhD Student at UMass Amherst || MSc Theoretical Physics, University of
 
 profile:
   align: right
-  image: IMG_3102.jpg
+  image: front_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>With Sir Roger Penrose after his talk</p>
-    <p>Wadham College, Oxford</p>
+  # address: >
+  #   <p>With Sir Roger Penrose after his talk</p>
+  #   <p>Wadham College, Oxford</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey all 👋🏾 ! I’m Kabir, a first year PhD student at UMass Amherst. I work with [Prof. Romain Vasseur](https://blogs.umass.edu/rvasseur/) on topics related to quantum dynamics using tools in quantum computing and quantum information theory. However, I am interested in all things quantum condensed matter theory.
+Hey all 👋🏾 ! I’m Kabir, a second year PhD student at UMass Amherst. I work with [Prof. Romain Vasseur](https://blogs.umass.edu/rvasseur/) on topics related to quantum dynamics using tools from quantum computing quantum information theory. However, I am interested in all things quantum condensed matter theory.
 
 As far as theoretical physicists go, I have a non-traditional academic background. I graduated with a bachelor’s in [Engineering Design](https://ed.iitm.ac.in/) and a master’s in [Quantum Science & Technology](https://quantum.iitm.ac.in/programmes/) from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) (IITM) in July 2022.
 
