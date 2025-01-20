@@ -6,7 +6,7 @@ subtitle: PhD Student at UMass Amherst || MSc Theoretical Physics, University of
 
 profile:
   align: right
-  image: front_pic.jpg
+  image: front_pic_1.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>With Sir Roger Penrose after his talk</p>
