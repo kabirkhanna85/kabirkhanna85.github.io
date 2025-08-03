@@ -17,10 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey all 👋🏾 ! I’m Kabir, a second year PhD student at UMass Amherst. I work with [Prof. Romain Vasseur](https://blogs.umass.edu/rvasseur/) on topics related to quantum dynamics using tools from quantum computing quantum information theory. I am broadly interested in all things quantum condensed matter theory.
+Hey all 👋🏾 ! I’m Kabir, a second year PhD student currently at UMass Amherst. I will be continuing my PhD at the [University of Geneva](https://www.unige.ch/sciences/physique/theorique/en/) beginning this fall, where I will be moving with my supervisor [Prof. Romain Vasseur](https://sites.google.com/view/romain-vasseur/home). I work on topics related to quantum dynamics using tools from quantum information theory and quantum computing. Broadly speaking, I am interested in all things quantum. 
 
 As far as theoretical physicists go, I have a rather unorthodox academic background. I did my undergraduate degree in [Engineering Design](https://ed.iitm.ac.in/) with an integrated master’s in [Quantum Science & Technology](https://quantum.iitm.ac.in/programmes/) from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) (IITM) in July 2022.
-
 
 I pivoted to physics after this, doing an [MSc in Mathematical and Theoretical Physics](https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-and-theoretical-physics) from the [University of Oxford](https://www.ox.ac.uk/), a short yet intense course. You can find the list of modules offered [here](https://drive.google.com/file/d/1BhJ5_GwTvyxnIryoCewyi_9W5hqgMzjX/view?usp=sharing).
 
