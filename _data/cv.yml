@@ -36,20 +36,20 @@
       #   - Physical Applications of Statistical Processes (10/10)
       #   - Mathematical Physics 2 (9/10)
 
-- title: Publications
-  type: time_table
-  contents:
-    - title: Random Quantum Circuits with Time-Reversal Symmetry
-      description: 
-      - https://arxiv.org/abs/2501.13161
+# - title: Publications
+#   type: time_table
+#   contents:
+#     - title: Random Quantum Circuits with Time-Reversal Symmetry
+#       description: 
+#       - https://arxiv.org/abs/2501.13161
 
-    - title: Decoherence due to Spacetime Curvature
-      description:
-        - https://arxiv.org/abs/2302.09038
+#     - title: Decoherence due to Spacetime Curvature
+#       description:
+#         - https://arxiv.org/abs/2302.09038
 
-    - title: GUP Corrections to the Jaynes-Cummings Model
-      description:
-        - https://doi.org/10.48550/arXiv.2209.10152
+#     - title: GUP Corrections to the Jaynes-Cummings Model
+#       description:
+#         - https://doi.org/10.48550/arXiv.2209.10152
 
 
     # - title: Professor of Theoretical Physics
