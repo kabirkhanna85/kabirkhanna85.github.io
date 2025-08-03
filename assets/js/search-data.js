@@ -398,14 +398,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-website-is-live",
+            },},{id: "news-website-is-live",
           title: 'Website is live!! 📈',
           description: "",
           section: "News",},{id: "news-my-first-paper-is-out-on-arxiv",
           title: 'My first paper is out on arXiv! 🎊',
+          description: "",
+          section: "News",},{id: "news-i-started-my-msc-in-theoretical-physics-at-the-university-of-oxford",
+          title: 'I started my MSc in theoretical physics at the University of Oxford!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
