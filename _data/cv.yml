@@ -36,26 +36,20 @@
       #   - Physical Applications of Statistical Processes (10/10)
       #   - Mathematical Physics 2 (9/10)
 
-- title: Research
+- title: Publications
   type: time_table
   contents:
-    - title: Dissertation
-      institution: University of Oxford
-      year: 2022-23
-      description:
-        - Generation of quantum states states via measurement (in preparation)
+    - title: Random Quantum Circuits with Time-Reversal Symmetry
+      description: 
+      - https://arxiv.org/abs/2501.13161
 
-    - title: Master's Thesis
-      institution: Indian Institute of Technology Madras
-      year: 2021-22
+    - title: Decoherence due to Spacetime Curvature
       description:
-        - Aspects of Quantum Information in Curved Spacetimes. arXiv. https://arxiv.org/abs/2302.09038
+        - https://arxiv.org/abs/2302.09038
 
-    - title: Research Associate
-      institution: University of Lethbridge
-      year: 2021-22
+    - title: GUP Corrections to the Jaynes-Cummings Model
       description:
-        - Khanna, K., & Das, S. (2022). GUP Corrections to the Jaynes-Cummings Model. arXiv. https://doi.org/10.48550/arXiv.2209.10152
+        - https://doi.org/10.48550/arXiv.2209.10152
 
 
     # - title: Professor of Theoretical Physics
@@ -95,19 +89,5 @@
       items:
         - Best outgoing student at my school, DPS Secunderabad.
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items:
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> playing the guitar, learning languages, coffee, chess, etc.
+
