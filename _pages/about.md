@@ -2,10 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student at UMass Amherst || MSc Theoretical Physics, University of Oxford || B.Tech/M.Tech, IIT Madras
+subtitle: PhD Student at UMass Amherst in Condensed Matter Theory
 
 profile:
-  align: right
+  align: false
   image: front_pic.jpg
   image_circular: true # crops the image to make it circular
   # address: >
@@ -17,18 +17,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey all 👋🏾 ! I’m Kabir, a second year PhD student at UMass Amherst. I work with [Prof. Romain Vasseur](https://blogs.umass.edu/rvasseur/) on topics related to quantum dynamics using tools from quantum computing quantum information theory. However, I am interested in all things quantum condensed matter theory.
+Hey all 👋🏾 ! I’m Kabir, a second year PhD student at UMass Amherst. I work with [Prof. Romain Vasseur](https://blogs.umass.edu/rvasseur/) on topics related to quantum dynamics using tools from quantum computing quantum information theory. I am broadly interested in all things quantum condensed matter theory.
 
-As far as theoretical physicists go, I have a non-traditional academic background. I graduated with a bachelor’s in [Engineering Design](https://ed.iitm.ac.in/) and a master’s in [Quantum Science & Technology](https://quantum.iitm.ac.in/programmes/) from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) (IITM) in July 2022.
+As far as theoretical physicists go, I have a rather  academic background. I graduated with a bachelor’s in [Engineering Design](https://ed.iitm.ac.in/) and a master’s in [Quantum Science & Technology](https://quantum.iitm.ac.in/programmes/) from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) (IITM) in July 2022.
 
-<!-- In my years at IITM, I was interested in semi-classical methods at the intersection of field theory, general relativity, and quantum information.
-My master’s thesis was on <em>Aspects of Quantum Information in Curved Spacetimes</em> and explored the interplay between gravity and quantum information using just these kinds of semi-classical methods. A paper based on some of this work can be found below. -->
 
 I also hold an [MSc in Mathematical and Theoretical Physics](https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-and-theoretical-physics) from the [University of Oxford](https://www.ox.ac.uk/), a short yet intense course in theoretical physics. You can find the list of courses offered [here](https://drive.google.com/file/d/1BhJ5_GwTvyxnIryoCewyi_9W5hqgMzjX/view?usp=sharing).
 
 <!-- Recently my interests have shifted towards studying quantum information theoretic aspects in condensed matter physics. This is the broad area of my dissertation at Oxford. -->
 
-Besides physics, I like to learn languages, geek out about coffee, and if the circumstances call for it, go all out with my guitar.
+Besides physics, I like to learn languages (so I can mispronounce things in five different languages), geek out about coffee like it’s a dissertation topic, hang my queen in an effort to "play chess," and, on the rare occasion I pick up my guitar, end up with a broken string at the end of it.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
