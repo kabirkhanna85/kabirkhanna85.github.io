@@ -374,6 +374,28 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+github_username: #
+gitlab_username: # your GitLab user name
+linkedin_username: kabir-khanna-761a9260
+scholar_userid: l9vHyKoAAAAJ
+orcid_id: 0000-0001-9400-1597
+medium_username: # your Medium username
+quora_username: # your Quora username
+publons_id: # your ID on Publons
+research_gate_profile: # your profile on ResearchGate
+blogger_url: # your blogger URL
+work_url: # work page URL
+keybase_username: # your keybase user name
+wikidata_id: # your wikidata id
+dblp_url: # your DBLP profile url
+stackoverflow_id: #your stackoverflow id
+
+contact_note: >
+  The best way to reach me is by e-mail - kabir.khanna@wadham.ox.ac.uk
 
 enable_google_analytics: false # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
