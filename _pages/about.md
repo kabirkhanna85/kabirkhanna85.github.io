@@ -19,14 +19,15 @@ social: true # includes social icons at the bottom of the page
 
 Hey all 👋🏾 ! I’m Kabir, a second year PhD student at UMass Amherst. I work with [Prof. Romain Vasseur](https://blogs.umass.edu/rvasseur/) on topics related to quantum dynamics using tools from quantum computing quantum information theory. I am broadly interested in all things quantum condensed matter theory.
 
-As far as theoretical physicists go, I have a rather  academic background. I graduated with a bachelor’s in [Engineering Design](https://ed.iitm.ac.in/) and a master’s in [Quantum Science & Technology](https://quantum.iitm.ac.in/programmes/) from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) (IITM) in July 2022.
+As far as theoretical physicists go, I have a rather unorthodox academic background. I did my undergraduate degree in [Engineering Design](https://ed.iitm.ac.in/) with an integrated master’s in [Quantum Science & Technology](https://quantum.iitm.ac.in/programmes/) from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) (IITM) in July 2022.
 
 
-I also hold an [MSc in Mathematical and Theoretical Physics](https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-and-theoretical-physics) from the [University of Oxford](https://www.ox.ac.uk/), a short yet intense course in theoretical physics. You can find the list of courses offered [here](https://drive.google.com/file/d/1BhJ5_GwTvyxnIryoCewyi_9W5hqgMzjX/view?usp=sharing).
+I pivoted to physics after this, doing an [MSc in Mathematical and Theoretical Physics](https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-and-theoretical-physics) from the [University of Oxford](https://www.ox.ac.uk/), a short yet intense course. You can find the list of modules offered [here](https://drive.google.com/file/d/1BhJ5_GwTvyxnIryoCewyi_9W5hqgMzjX/view?usp=sharing).
 
 <!-- Recently my interests have shifted towards studying quantum information theoretic aspects in condensed matter physics. This is the broad area of my dissertation at Oxford. -->
 
-Besides physics, I like to learn languages (so I can mispronounce things in five different languages), geek out about coffee like it’s a dissertation topic, hang my queen in an effort to "play chess," and, on the rare occasion I pick up my guitar, end up with a broken string at the end of it.
+Outside of physics, I like to learn languages (mostly to mispronounce things with confidence in five countries), geek out about coffee like it’s a dissertation topic, hang my queen in a valiant effort to “play chess,” and, on the rare occasion I pick up my guitar, break a string out of sheer excitement.
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
