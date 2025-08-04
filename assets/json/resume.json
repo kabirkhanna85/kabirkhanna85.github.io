@@ -28,18 +28,7 @@
       "highlights": []
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Lamdon School",
-      "location": "Leh, India",
-      "position": "Mathematics and Physics Tutor",
-      "url": "",
-      "startDate": "2018-05-01",
-      "endDate": "2018-07-01",
-      "summary": "Tutored high school students in mathematics and physics during summer.",
-      "highlights": []
-    }
-  ],
+
   "education": [
     {
       "institution": "University of Massachusetts Amherst",
@@ -151,13 +140,6 @@
       "releaseDate": "2022-09-01",
       "url": "https://doi.org/10.48550/arXiv.2209.10152",
       "summary": "Kabir Khanna and Saurya Das. GUP Corrections to the Jaynes-Cummings Model."
-    },
-    {
-      "name": "Long-Range Entanglement from Trivial States Through Anomaly Imprinting Measurements",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": "Kabir Khanna, Abhishodh Prakash, and Siddharth Parameswaran. In preparation."
     }
   ],
   "skills": [
