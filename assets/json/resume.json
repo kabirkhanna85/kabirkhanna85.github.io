@@ -1,14 +1,12 @@
 
 {
   "basics": {
-    "name": "Kabir Rohit Khanna",
-    "label": "PhD Student in Physics",
+    "name": "Kabir Khanna",
+    "label": "PhD Student in condensed matter theory",
     "image": "",
     "email": "",
     "phone": "",
     "url": "",
-    "summary": "PhD student at University of Massachusetts Amherst researching quantum information and condensed matter physics. Prior degrees from University of Oxford (MSc, Theoretical Physics) and IIT Madras (BTech+MTech, Quantum Science & Technology). Published researcher with teaching and outreach experience.",
-    "location": {
       "address": "",
       "postalCode": "",
       "city": "Amherst",
@@ -17,17 +15,6 @@
     },
     "profiles": []
   },
-  "work": [
-    {
-      "name": "University of Massachusetts Amherst",
-      "position": "PhD in Physics, Graduate Student",
-      "url": "",
-      "startDate": "2023-09-01",
-      "endDate": "",
-      "summary": "PhD research under supervision of Prof. Romain Vasseur in theoretical physics, focusing on quantum information, entanglement, random quantum circuits and condensed matter.",
-      "highlights": []
-    }
-  ],
 
   "education": [
     {
@@ -90,13 +77,6 @@
       "summary": "Awarded the DAAD WISE Research Scholarship."
     },
     {
-      "title": "Partial Funding, Wolfram Summer School",
-      "date": "2019-06-01",
-      "awarder": "Wolfram Summer School",
-      "url": "",
-      "summary": "Awarded partial funding to attend the Wolfram Summer School."
-    },
-    {
       "title": "Best Volunteer, NSS IITM",
       "date": "2018-05-01",
       "awarder": "IIT Madras",
@@ -142,22 +122,6 @@
       "summary": "Kabir Khanna and Saurya Das. GUP Corrections to the Jaynes-Cummings Model."
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Expert",
-      "icon": "",
-      "keywords": [
-        "Quantum Information",
-        "Quantum Circuits",
-        "Condensed Matter Physics",
-        "Quantum Computation",
-        "Quantum Gravity",
-        "Curved Spacetime",
-        "Quantum Measurements"
-      ]
-    }
-  ],
   "languages": [
     {
       "language": "English",
@@ -168,19 +132,11 @@
       "language": "Hindi",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "",
-      "keywords": [
-        "Quantum Information",
-        "Quantum Circuits",
-        "Condensed Matter Physics",
-        "Quantum Computation",
-        "Quantum Gravity"
-      ]
+    },
+        {
+      "language": "Telugu",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ],
   "references": [],
