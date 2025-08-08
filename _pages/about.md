@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey all 👋🏾 ! I’m Kabir, a second year PhD student currently at UMass Amherst. I will be continuing my PhD at the [University of Geneva](https://www.unige.ch/sciences/physique/theorique/en/) beginning this fall, where I will be moving with my supervisor [Prof. Romain Vasseur](https://sites.google.com/view/romain-vasseur/home). I work on topics related to quantum dynamics using tools from quantum information theory and quantum computing. Broadly speaking, I am interested in all things quantum. 
+Hey all 👋🏾 ! I’m Kabir, a second year PhD student currently at UMass Amherst. I will be continuing my PhD at the [University of Geneva](https://www.unige.ch/sciences/physique/theorique/en/) beginning this fall, where I will be moving with my supervisor [Prof. Romain Vasseur](https://sites.google.com/view/romain-vasseur/home). I work on topics related to quantum dynamics using tools from quantum information theory and quantum computing. Broadly speaking, I am interested in all things quantum-condensed matter. 
 
 As far as theoretical physicists go, I have a rather unorthodox academic background. I did my undergraduate degree in [Engineering Design](https://ed.iitm.ac.in/) with an integrated master’s in [Quantum Science & Technology](https://quantum.iitm.ac.in/programmes/) from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) (IITM) in July 2022.
 
@@ -25,7 +25,7 @@ I pivoted to physics after this, doing an [MSc in Mathematical and Theoretical P
 
 <!-- Recently my interests have shifted towards studying quantum information theoretic aspects in condensed matter physics. This is the broad area of my dissertation at Oxford. -->
 
-Outside of physics, I like to learn languages (mostly to mispronounce things with confidence in five countries), geek out about coffee like it’s a dissertation topic, hang my queen in a valiant effort to “play chess,” and, on the rare occasion I pick up my guitar, break a string out of sheer excitement.
+Outside of physics, I like to learn languages, geek out about coffee , play chess, and keep physically active enough to counteract a physicist’s chair-bound life.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
