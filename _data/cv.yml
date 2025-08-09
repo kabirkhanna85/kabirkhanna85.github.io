@@ -1,97 +1,97 @@
-# - title: General Information
-#   type: map
-#   contents:
-#     - name: Full Name
-#       value: Kabir Khanna
-#     - name: Date of Birth
-#       value: 12th November 1999
-#     - name: Languages
-#       value: English, Hindi, Telugu
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Kabir Khanna
+    - name: Date of Birth
+      value: 12th November 1999
+    - name: Languages
+      value: English, Hindi, Telugu
 
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: PhD Physics
-#       institution: University of Massachusetts, Amherst
-#       year: 2023-2028 (Expected)
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Physics
+      institution: University of Massachusetts, Amherst
+      year: 2023-2028 (Expected)
 
-#     - title: MSc Mathematical and Theoretical Physics
-#       institution: University of Oxford, UK
-#       year: 2022-2023
-#       # description:
-#       #   - Description 1.
-#       #   - Description 2.
-#       #   - title: Description 3.
-#       #     contents:
-#       #       - Sub-description 1.
-#       #       - Sub-description 2.
-#     - title: B.Tech in Engineering Design + M.Tech in Quantum Science and Technology
-#       institution: Indian Institute of Technology Madras (IITM)
-#       year: 2017-22
-#       # - Relevant Coursework: Grading scale - 10
-#       #   - General Relativity and Cosmology (10/10)
-#       #   - Quantum Field Theory
-#       #   - Quantum Computing and Information (10/10)
-#       #   - Quantum Communications (10/10)
-#       #   - Physical Applications of Statistical Processes (10/10)
-#       #   - Mathematical Physics 2 (9/10)
+    - title: MSc Mathematical and Theoretical Physics
+      institution: University of Oxford, UK
+      year: 2022-2023
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: B.Tech in Engineering Design + M.Tech in Quantum Science and Technology
+      institution: Indian Institute of Technology Madras (IITM)
+      year: 2017-22
+      # - Relevant Coursework: Grading scale - 10
+      #   - General Relativity and Cosmology (10/10)
+      #   - Quantum Field Theory
+      #   - Quantum Computing and Information (10/10)
+      #   - Quantum Communications (10/10)
+      #   - Physical Applications of Statistical Processes (10/10)
+      #   - Mathematical Physics 2 (9/10)
 
-# - title: Publications
-#   type: time_table
-#   contents:
-#     - title: Measurement-Induced Entanglement in Conformal Field Theory
-#       description: 
-#       - https://arxiv.org/pdf/2508.02788
+- title: Publications
+  type: time_table
+  contents:
+    - title: Measurement-Induced Entanglement in Conformal Field Theory
+      description: 
+      - https://arxiv.org/pdf/2508.02788
       
-#     - title: Random Quantum Circuits with Time-Reversal Symmetry
-#       description: 
-#       - https://arxiv.org/abs/2501.13161
+    - title: Random Quantum Circuits with Time-Reversal Symmetry
+      description: 
+      - https://arxiv.org/abs/2501.13161
 
-#     - title: Decoherence due to Spacetime Curvature
-#       description:
-#         - https://arxiv.org/abs/2302.09038
+    - title: Decoherence due to Spacetime Curvature
+      description:
+        - https://arxiv.org/abs/2302.09038
 
-#     - title: GUP Corrections to the Jaynes-Cummings Model
-#       description:
-#         - https://doi.org/10.48550/arXiv.2209.10152
+    - title: GUP Corrections to the Jaynes-Cummings Model
+      description:
+        - https://doi.org/10.48550/arXiv.2209.10152
 
 
-#     # - title: Professor of Theoretical Physics
-#     #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
-#     #   year: 1911 - 1917
+    # - title: Professor of Theoretical Physics
+    #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
+    #   year: 1911 - 1917
 
-# # - title: Open Source Projects
-# #   type: time_table
-# #   contents:
-# #     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-# #       year: 2015-now
-# #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-# - title: Honors and Awards
+# - title: Open Source Projects
 #   type: time_table
 #   contents:
-#     - year: 2023
-#       items:
-#         - Graduate Fellowship by UMass worth $5000.
-#     - year: 2022
-#       items:
-#         - OCSI Scholarship
-#     - year: 2021
-#       items:
-#         - Selected for the DAAD WISE research scholarship.
-#     - year: 2019
-#       items:
-#         - Selected to participate in a tuition-funded semester exchange at DTU, Denmark.
-#         - Awarded partial funding to attend the Wolfram Summer School at Waltham, Massachusetts.
-#     - year: 2018
-#       items:
-#         - Best volunteer at NSS IITM for teaching mathematical concepts to underpriviliged students.
-#     - year: 2017
-#       items:
-#         - Stood in the top 0.3% of JEE Advanced 2017 out of 1.2 million applicants.
-#     - year: 2015
-#       items:
-#         - Best outgoing student at my school, DPS Secunderabad.
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - Graduate Fellowship by UMass worth $5000.
+    - year: 2022
+      items:
+        - OCSI Scholarship
+    - year: 2021
+      items:
+        - Selected for the DAAD WISE research scholarship.
+    - year: 2019
+      items:
+        - Selected to participate in a tuition-funded semester exchange at DTU, Denmark.
+        - Awarded partial funding to attend the Wolfram Summer School at Waltham, Massachusetts.
+    - year: 2018
+      items:
+        - Best volunteer at NSS IITM for teaching mathematical concepts to underpriviliged students.
+    - year: 2017
+      items:
+        - Stood in the top 0.3% of JEE Advanced 2017 out of 1.2 million applicants.
+    - year: 2015
+      items:
+        - Best outgoing student at my school, DPS Secunderabad.
 
 
 
