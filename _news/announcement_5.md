@@ -4,4 +4,4 @@ date: 6 Mar 2023
 inline: true
 ---
 
-I have officially accepted a PhD offer at University of Massachusetts Amherst under the supervision of Prof. Romain Vasseur!
+I have officially accepted a PhD offer at University of Massachusetts Amherst under the supervision of [Prof. Romain Vasseur](https://sites.google.com/view/romain-vasseur/home)!
