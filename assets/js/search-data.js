@@ -405,7 +405,7 @@ ninja.data = [{
           section: "News",},{id: "news-the-pre-print-for-my-first-paper-is-out-on-arxiv",
           title: 'The pre-print for my first paper is out on arXiv!',
           description: "",
-          section: "News",},{id: "news-attended-my-first-conference-at-the-aps-march-meeting-and-delivered-a-talk-on-my-on-my-work-on-random-quantum-circuits-with-time-reversal-symmetry",
+          section: "News",},{id: "news-attended-my-first-conference-at-the-aps-march-meeting-and-delivered-a-talk-on-random-quantum-circuits-with-time-reversal-symmetry",
           title: 'Attended my first conference at the APS March Meeting and delivered a talk...',
           description: "",
           section: "News",},{id: "news-my-paper-on-calculating-the-entanglement-entropy-of-a-partially-measured-quantum-critical-system-is-out-on-arxiv",
