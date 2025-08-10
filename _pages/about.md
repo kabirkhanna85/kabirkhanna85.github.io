@@ -4,6 +4,9 @@ title: About
 permalink: /
 subtitle: PhD Student at UMass Amherst in Condensed Matter Theory
 
+announcements:
+  enabled: true # includes a list of news items
+
 profile:
   align: false
   image: front_pic.jpg
