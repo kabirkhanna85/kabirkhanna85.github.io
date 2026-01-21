@@ -1,21 +1,18 @@
-
 {
   "basics": {
     "name": "Kabir Khanna",
     "label": "PhD Student in condensed matter theory",
     "image": "",
-    "email": "",
+    "email": "kabir.khanna@unige.ch",
     "phone": "",
     "url": "",
-      "address": "",
-      "postalCode": "",
-      "city": "Amherst",
-      "countryCode": "US",
-      "region": "Massachusetts"
-    },
+    "address": "",
+    "postalCode": "",
+    "city": "Geneva",
+    "countryCode": "",
+    "region": "",
     "profiles": []
   },
-
   "education": [
     {
       "institution": "University of Massachusetts Amherst",
@@ -133,7 +130,7 @@
       "fluency": "Fluent",
       "icon": ""
     },
-        {
+    {
       "language": "Telugu",
       "fluency": "Fluent",
       "icon": ""
