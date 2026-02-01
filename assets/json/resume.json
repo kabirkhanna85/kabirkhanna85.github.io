@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Kabir Khanna",
-    "label": "PhD Student in condensed matter theory",
+    "label": "Physics PhD Candidate",
     "image": "",
     "email": "kabir.khanna@unige.ch",
     "phone": "",
@@ -14,6 +14,19 @@
     "profiles": []
   },
   "education": [
+        {
+      "institution": "University of Geneva",
+      "location": "Geneva, Switzerland",
+      "url": "",
+      "area": "Physics",
+      "studyType": "PhD",
+      "startDate": "2025-09-01",
+      "endDate": "",
+      "score": "",
+      "courses": [],
+      "advisor": "Romain Vasseur"
+    },
+    
     {
       "institution": "University of Massachusetts Amherst",
       "location": "Massachusetts, USA",
@@ -21,7 +34,7 @@
       "area": "Physics",
       "studyType": "PhD",
       "startDate": "2023-09-01",
-      "endDate": "",
+      "endDate": "2025-08-31",
       "score": "",
       "courses": [],
       "advisor": "Romain Vasseur"
@@ -97,6 +110,20 @@
   ],
   "certificates": [],
   "publications": [
+            {
+      "name": "Universal Statistics of Measurement-Induced Entanglement in Tomonaga-Luttinger liquids",
+      "publisher": "",
+      "releaseDate": "2025-12-15",
+      "url": "https://arxiv.org/pdf/2512.13809",
+      "summary": "Kabir Khanna, Romain Vasseur. Universal Statistics of Measurement-Induced Entanglement in Tomonaga-Luttinger liquids"
+    },
+        {
+      "name": "Measurement-Induced Entanglement in Conformal Field Theory",
+      "publisher": "",
+      "releaseDate": "2025-08-04",
+      "url": "https://arxiv.org/abs/2508.02788",
+      "summary": "Kabir Khanna, Romain Vasseur. Measurement-Induced Entanglement in Conformal Field Theory."
+    },
     {
       "name": "Random Quantum Circuits with Time-Reversal Symmetry",
       "publisher": "",
@@ -139,6 +166,18 @@
   "references": [],
   "projects": [],
   "talks": [
+        {
+      "name": "Swiss Quantum Days, Jan 2026",
+      "summary": "Measurement-Induced Entanglement in Gapless Quantum Matter."
+    },
+          {
+      "name": "HRI Allahabad, Aug 2025",
+      "summary": "Pedagogical lectures on Measurement-Induced Phase Transitions (MIPTs)."
+    },
+            {
+      "name": "HRI Allahabad, Aug 2025",
+      "summary": "Measurement-Induced Entanglement in Gapless Quantum Matter."
+    },
     {
       "name": "APS March Meeting 2025",
       "summary": "Random Quantum Circuits with Time-Reversal Symmetry."
