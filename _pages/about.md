@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student at UMass Amherst in Condensed Matter Theory
+subtitle: PhD (Physics) candidate at the University of Geneva, Switzerland
 
 announcements:
   enabled: true # includes a list of news items
@@ -20,11 +20,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey all 👋🏾 ! I’m Kabir, a third year PhD student currently at [University of Geneva](https://www.unige.ch/) working with [Prof. Romain Vasseur](https://sites.google.com/view/romain-vasseur/home). I am interested in all things quantum-condensed matter. So far, my work has revolved around measurement-related phenomena in many-body systems (dynamical and at equilibrium). 
+Hey all 👋🏾 ! I’m Kabir, a third year PhD student currently at [University of Geneva](https://www.unige.ch/) working with [Prof. Romain Vasseur](https://sites.google.com/view/romain-vasseur/home). I am interested in all things quantum-condensed matter. However, so far, my work has revolved around studying measurement-related phenomena in many-body systems (dynamical and at equilibrium). 
 
-As far as theoretical physicists go, I have a rather unorthodox academic background. I did my undergraduate degree in [Engineering Design](https://ed.iitm.ac.in/) with an integrated master’s in [Quantum Science & Technology](https://quantum.iitm.ac.in/programmes/) from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) (IITM) in July 2022.
+As far as theoretical physicists go, I have a rather unorthodox academic background. I did my undergraduate degree in [Engineering Design](https://ed.iitm.ac.in/) with an integrated master’s in [Quantum Science & Technology](https://quantum.iitm.ac.in/programmes/) from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) (IITM), graduating in July 2022.
 
-I pivoted to physics after this, doing an [MSc in Mathematical and Theoretical Physics](https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-and-theoretical-physics) from the [University of Oxford](https://www.ox.ac.uk/), a short yet intense course. You can find the list of modules offered [here](https://drive.google.com/file/d/1BhJ5_GwTvyxnIryoCewyi_9W5hqgMzjX/view?usp=sharing).
+I pivoted to theoretical physics after this, doing an [MSc in Mathematical and Theoretical Physics](https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-and-theoretical-physics) from the [University of Oxford](https://www.ox.ac.uk/), a short yet intense course. You can find the list of modules offered [here](https://drive.google.com/file/d/1BhJ5_GwTvyxnIryoCewyi_9W5hqgMzjX/view?usp=sharing).
 
 <!-- Recently my interests have shifted towards studying quantum information theoretic aspects in condensed matter physics. This is the broad area of my dissertation at Oxford. -->
 
