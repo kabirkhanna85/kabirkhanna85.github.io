@@ -473,6 +473,13 @@ ninja.data = [{
           window.open("mailto:%6B%61%62%69%72.%6B%68%61%6E%6E%61@%75%6E%69%67%65.%63%68", "_blank");
         },
       },{
+        id: 'social-inspire',
+        title: 'Inspire HEP',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://inspirehep.net/authors/2156416", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
