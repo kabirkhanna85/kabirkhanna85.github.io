@@ -421,7 +421,7 @@ ninja.data = [{
           title: 'Gave a talk on Measurement-induced entanglement (MIE) in gapless phases of matter at...',
           description: "",
           section: "News",},{id: "news-my-first-published-paper-on-prr",
-          title: 'My first published paper on PRR',
+          title: 'My first published paper on PRR.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
