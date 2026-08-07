@@ -44,6 +44,12 @@
 - title: Publications
   type: time_table
   contents:
+    - title: Theory of Measurement-Altered Criticality
+      description: https://arxiv.org/pdf/2608.05289
+  
+    - title: Post-selected Criticality in Measurement-induced Phase Transitions
+      description: https://arxiv.org/pdf/2603.15744
+      
     - title: Universal Statistics of Measurement-Induced Entanglement in Tomonaga-Luttinger liquids
       description: https://arxiv.org/pdf/2512.13809
       
