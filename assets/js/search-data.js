@@ -436,7 +436,7 @@ ninja.data = [{
           title: 'Delivered tutorial sessions in QLANDS 2026 on stat-mech of random circuits. My first...',
           description: "",
           section: "News",},{id: "news-our-work-on-measurement-altered-criticality-is-out-on-arxiv",
-          title: 'Our work on measurement-altered criticality is out on arxiv',
+          title: 'Our work on measurement-altered criticality is out on arxiv!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
