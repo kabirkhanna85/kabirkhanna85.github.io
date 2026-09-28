@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I’m Kabir, a third year physics PhD student currently at [University of Geneva](https://www.unige.ch/) working with [Prof. Romain Vasseur](https://sites.google.com/view/romain-vasseur/home). I am interested in all things quantum-condensed matter. However, so far, my work has revolved around studying universal measurement-related phenomena in many-body systems (dynamical and at equilibrium). Have a look at my papers below to know more. 
+Hi! I’m Kabir, a third year physics PhD student currently at [University of Geneva](https://www.unige.ch/) working with [Prof. Romain Vasseur](https://sites.google.com/view/romain-vasseur/home). I am interested in all things quantum-condensed matter. So far my PhD has revolved around studying universal measurement-related phenomena in many-body systems (dynamical and at equilibrium). Have a look at my papers below to know more. 
 
 As far as theoretical physicists go, I have a rather unorthodox academic background. I did my undergraduate degree in [Engineering Design](https://ed.iitm.ac.in/) with an integrated master’s in [Quantum Science & Technology](https://quantum.iitm.ac.in/programmes/) from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/) (IITM), graduating in July 2022. After this, I pivoted to theoretical physics, obtaining an [MSc in Mathematical and Theoretical Physics](https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-and-theoretical-physics) from the [University of Oxford](https://www.ox.ac.uk/). 
 
