@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Physics PhD candidate at the University of Geneva, Switzerland
+subtitle:
 
 announcements:
   enabled: true # includes a list of news items
