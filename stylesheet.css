@@ -45,7 +45,8 @@ strong { font-weight: 700; }
 .intro-copy { padding: 20px; }
 .name { margin: 20px 0 18px; text-align: center; font-size: 32px; line-height: 1.25; }
 .profile { margin: 0; padding: 20px; }
-.profile img { display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; border-radius: 50%; }
+.profile img { display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; border-radius: 8px; }
+.profile figcaption { margin-top: 8px; color: #666; text-align: center; font-size: 12px; }
 .contact { text-align: center; line-height: 2; }
 .contact span + span::before { content: " / "; padding: 0 5px; color: #111; }
 .section { padding: 16px 20px; }
